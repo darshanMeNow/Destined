@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">destined</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loc_added">Location Added Successfully</string>
+    <string name="errors">Error:%1$s</string>
+    <string name="error_field_required">This Field Required</string>
+    <string name="error">Error: %1$s</string>
+    <string name="author_added">Author Successfully Added</string>
+    <string name="delete_confirmation">Are you sure you want to delete?</string>
+    <string name="yes">Yes</string>
+</resources>
