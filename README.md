@@ -14,7 +14,6 @@ Overview of the project:
     3. They are notified about your location
     
     WIN! WIN!
-  Here are some screenshots
 ![Update](https://user-images.githubusercontent.com/73628244/117954351-8f5f7080-b334-11eb-9098-961a9695ed88.png)
 
 ![Home](https://user-images.githubusercontent.com/73628244/117954364-938b8e00-b334-11eb-8543-c041ead53210.png)
